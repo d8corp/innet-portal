@@ -1,0 +1,28 @@
+{
+  "name": "@innet/portal",
+  "version": "1.0.0",
+  "description": "innet plugin to render a content into separate HTML Element",
+  "main": "index.js",
+  "module": "index.es6.js",
+  "jsnext:main": "index.es6.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d8corp/innet-portal.git"
+  },
+  "keywords": [
+    "plugin",
+    "innet",
+    "portal",
+    "front-end"
+  ],
+  "author": "Mikhail Lysikov <d8corp@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d8corp/innet-portal/issues"
+  },
+  "homepage": "https://github.com/d8corp/innet-portal",
+  "dependencies": {
+    "innet": "^1.0.0"
+  }
+}
