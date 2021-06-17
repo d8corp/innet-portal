@@ -1,7 +1,7 @@
 import innet from 'innet'
 import {State} from 'watch-state'
-import getHTML from 'innet/getHtml'
-import renderElement from 'innet/renderElement'
+import getHTML from 'innet/utils/test/getHtml'
+import renderElement from 'innet/utils/test/renderElement'
 
 import portal from '.'
 
